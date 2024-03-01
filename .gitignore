@@ -1,7 +1,11 @@
+*.epub
 *.pdf
+*.html
 *.aux
 *.bbl
 *.log
 *.out
 *.gz
 .vscode/
+
+Gemfile.lock
