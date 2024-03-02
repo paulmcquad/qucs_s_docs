@@ -1,5 +1,5 @@
-Qucs-S, First Edition
-=====================
+Qucs-S: Qucs with SPICE, First Edition
+======================================
 Paul McQuade
 :doctype: book
 :docinfo:
@@ -11,4 +11,9 @@ Paul McQuade
 
 include::LICENSE.asc[]
 
+// Section A: Qucs-s Introduction
+include::Section-A.asc[]
+
 include::ref_guide/reference.asc[]
+
+ifndef::ebook-format[include::index.asc[]]
