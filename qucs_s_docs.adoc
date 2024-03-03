@@ -1,8 +1,8 @@
-Qucs-S: Qucs with SPICE, First Edition
-======================================
+= Qucs-S: Qucs with SPICE, First Edition
 Paul McQuade
 :doctype: book
-:docinfo:
+:backend: docbook
+:docinfo: shared
 :toc:
 :toclevels: 2
 :pagenums:
@@ -13,6 +13,9 @@ include::LICENSE.asc[]
 
 // Section A: Qucs-s Introduction
 include::Section-A.asc[]
+
+// Section B: Basic Simulation
+include::Section-B.asc[]
 
 include::ref_guide/reference.asc[]
 
