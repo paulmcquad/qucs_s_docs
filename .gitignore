@@ -1,6 +1,7 @@
 *.epub
 *.pdf
 *.html
+*.xml
 *.aux
 *.bbl
 *.log
