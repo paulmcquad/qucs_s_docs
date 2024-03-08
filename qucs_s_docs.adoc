@@ -1,7 +1,6 @@
-= Qucs-S: Qucs with SPICE, First Edition
+= Qucs-S: Quite Universal Circuit Simulator with SPICE, First Edition
 Paul McQuade
 :doctype: book
-:backend: docbook
 :docinfo: shared
 :toc:
 :toclevels: 2
